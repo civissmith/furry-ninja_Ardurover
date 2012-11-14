@@ -5,12 +5,13 @@
 *
 * @Date: 19-Oct-2012	05:55 PM
 *
-* @Project: 
+* @Project: Arduino Library
 *
-* @Purpose: 
+* @Purpose: This module implements the functions for the Parallax Ping)))
+*           distance sensor.
 *
 * @Modification History: 
-*
+* PROJECT TERMINATED
 *******************************************************************************/
 #ifndef __PING_H__
 #define __PING_H__

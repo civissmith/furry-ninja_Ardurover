@@ -11,7 +11,7 @@
 *           distance sensor.
 *
 * @Modification History: 
-*
+* PROJECT TERMINATED
 *******************************************************************************/
 #include "ping.h"
 namespace ping{

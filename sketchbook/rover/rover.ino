@@ -5,12 +5,12 @@
 *
 * @Date: 20-Oct-2012	08:38 AM
 *
-* @Project: 
+* @Project: Ardurover
 *
-* @Purpose: 
+* @Purpose: Entry point for Arduino environment
 *
 * @Modification History: 
-*
+* PROJECT TERMINATED  - file left in final debug state
 *******************************************************************************/
 #include <rover.h>
 #include <ping.h>

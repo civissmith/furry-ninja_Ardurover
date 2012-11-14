@@ -7,9 +7,10 @@
 *
 * @Project: Ardurover
 *
-* @Purpose: 
+* @Purpose: Encapsulate the rover platform
 *
 * @Modification History: 
+* PROJECT TERMINATED
 *
 *******************************************************************************/
 #ifndef __ROVER_H__

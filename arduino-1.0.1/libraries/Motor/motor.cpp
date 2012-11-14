@@ -5,11 +5,12 @@
 *
 * @Date: 20-Oct-2012	09:01 AM
 *
-* @Project: 
+* @Project: Ardurover V.1
 *
-* @Purpose: 
+* @Purpose: Encapsulate Motor Shield
 *
 * @Modification History: 
+* PROJECT TERMINATED
 *
 *******************************************************************************/
 #include "motor.h"
